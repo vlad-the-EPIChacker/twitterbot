@@ -1,5 +1,4 @@
-http://socialmedia-class.org/twittertutorial.html
-We will be using a Python library called Python Twitter Tools to connect to Twitter API and downloading the data from Twitter. There are many other libraries in various programming languages that let you use Twitter API. We choose the Python Twitter Tools for this tutorial, because it is simple to use yet fully supports the Twitter API.
+This is a script that uses a Twitter API to find the top 10 most retweeted tweets by a single user.
 
 Download the Python Twitter tools at https://pypi.python.org/pypi/twitter.
 
